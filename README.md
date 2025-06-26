@@ -83,3 +83,5 @@
         ```bash
         python main.py
         ```
+
+Документация: https://docs.google.com/document/d/1DJ_TV1buug6Gor9mwaLcQHco2s_2N1uyTdlgtg-79Hs/edit?usp=sharing
